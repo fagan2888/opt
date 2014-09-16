@@ -33,6 +33,7 @@
 \usepackage{listings} % Required for insertion of code
 \usepackage{courier} % Required for the courier font
 \usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{url}
 
 % Margins
 \topmargin=-0.45in
@@ -187,6 +188,8 @@
 
 % To have just one problem per page, simply put a \clearpage after each problem
 
+Everything is available at \url{https://github.com/wojzaremba/opt}.
+
 \begin{homeworkProblem}
 
 \begin{homeworkSectionName}{{\bf a})}
@@ -300,6 +303,19 @@
   Sometimes it takes a very long time for regula falsi to converge.
 \end{homeworkSectionName}
 
+\begin{homeworkSectionName}{{\bf f)}}
+  \script{matlab/ex1_3f.m}{Implementation}
+  \script{matlab/results/res_ex1_3f_i.txt}{Results for i)}
+  \script{matlab/results/res_ex1_3f_ii.txt}{Results for ii)}
+  \script{matlab/results/res_ex1_3f_iii.txt}{Results for iii)}
+  \script{matlab/results/res_ex1_3f_iv.txt}{Results for iv)}
+\end{homeworkSectionName}
+
+\begin{homeworkSectionName}{{\bf e)}}
+\end{homeworkSectionName}
+Last example where initial values are big is quite difficult. None of methods has guarantees far from convergence point, and
+it might take a long time to get over there. Scent method seems to perform the best in case of this example. However, it has
+no guarantees. Newton method has a nice behavious close to the convergence point (doubles precision in every step).
 \end{homeworkProblem}
 
 %----------------------------------------------------------------------------------------

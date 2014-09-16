@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/MacPorts 2013_5) (format=pdflatex 2014.1.6)  15 SEP 2014 11:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/MacPorts 2013_5) (format=pdflatex 2014.1.6)  16 SEP 2014 19:44
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -115,6 +115,10 @@ Package: courier 2005/04/12 PSNFSS-v9.2a (WaS)
 Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count96
 )
+(/opt/local/share/texmf-texlive/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
 (/opt/local/share/texmf-texlive/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 )
@@ -126,25 +130,25 @@ File: lstlang1.sty 2004/09/05 1.3 listings language file
 (./assignment.aux)
 \openout1 = `assignment.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
-LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 171.
+LaTeX Font Info:    ... okay on input line 171.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             macros/latex/contrib/pageslts/ 
 (lastpage)             or
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
-(lastpage)             ! on input line 170.
+(lastpage)             ! on input line 171.
 
 (/opt/local/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -209,11 +213,11 @@ e
 ))
 \c@lstlisting=\count104
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 172.
+(Font)              <12> on input line 173.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 172.
+(Font)              <8> on input line 173.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 172.
+(Font)              <6> on input line 173.
 
 [1
 
@@ -223,41 +227,39 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `assignment.toc'.
 
  [2]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 193.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 193.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 198.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 191.
 
 
 (/opt/local/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 191.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 191.
+
 (./matlab/bisection.m) (./matlab/ex1_1b.m) (./matlab/results/res_ex1_1b.txt)
 (./matlab/ex1_1d.m) (./matlab/results/res_ex1_1d.txt [3]) (./matlab/ex1_1e.m)
-(./matlab/results/res_ex1_1e.txt) (./matlab/newton.m) [4] (./matlab/secant.m)
-(./matlab/regula_falsi.m) (./matlab/wheeler.m
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 1.
-
-(/opt/local/share/texmf-texlive/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)) (./matlab/ex1_3c.m) (./matlab/results/res_ex1_3c_i.txt [5]) (./matlab/result
-s/res_ex1_3c_ii.txt)
+(./matlab/results/res_ex1_1e.txt) (./matlab/newton.m [4]) (./matlab/secant.m)
+(./matlab/regula_falsi.m) (./matlab/wheeler.m) (./matlab/ex1_3c.m)
+(./matlab/results/res_ex1_3c_i.txt [5]) (./matlab/results/res_ex1_3c_ii.txt)
 (./matlab/results/res_ex1_3c_iii.txt) (./matlab/results/res_ex1_3c_iv.txt)
 (./matlab/ex1_3d.m) (./matlab/results/res_ex1_3d_i.txt [6])
 (./matlab/results/res_ex1_3d_ii.txt) (./matlab/results/res_ex1_3d_iii.txt)
 (./matlab/results/res_ex1_3d_iv.txt) (./matlab/ex1_3e.m)
 (./matlab/results/res_ex1_3e_i.txt) (./matlab/results/res_ex1_3e_ii.txt
 [7]) (./matlab/results/res_ex1_3e_iii.txt) (./matlab/results/res_ex1_3e_iv.txt)
-
+(./matlab/ex1_3f.m) (./matlab/results/res_ex1_3f_i.txt)
+(./matlab/results/res_ex1_3f_ii.txt [8]) (./matlab/results/res_ex1_3f_iii.txt)
+(./matlab/results/res_ex1_3f_iv.txt) 
 AED: lastpage setting LastPage
-[8] (./assignment.aux) ) 
+[9] (./assignment.aux) ) 
 Here is how much of TeX's memory you used:
- 4177 strings out of 493315
- 59150 string characters out of 6139671
- 319327 words of memory out of 5000000
- 7497 multiletter control sequences out of 15000+600000
- 10784 words of font info for 37 fonts, out of 8000000 for 9000
+ 4247 strings out of 493315
+ 60212 string characters out of 6139671
+ 326477 words of memory out of 5000000
+ 7552 multiletter control sequences out of 15000+600000
+ 10187 words of font info for 36 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,12n,43p,293b,1664s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/opt/local/share/texmf-texlive/fonts/enc/dvips/base/8r
@@ -274,12 +276,11 @@ ic/amsfonts/cm/cmr9.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/
 cm/cmsy5.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cms
 y7.pfb></opt/local/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pf
-b></opt/local/share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb></opt/loca
-l/share/texmf-texlive/fonts/type1/urw/courier/ucrro8a.pfb>
-Output written on assignment.pdf (8 pages, 189598 bytes).
+b></opt/local/share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on assignment.pdf (9 pages, 187489 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
+ 95 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
