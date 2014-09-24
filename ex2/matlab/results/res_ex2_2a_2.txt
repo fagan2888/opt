@@ -1,0 +1,32 @@
+iter = 1,                x = 2,                   f(x) = 7,                method = initial point
+iter = 2,                x = 1.943431e+00,        f(x) = 6.402984e+00,     method = initial point
+iter = 3,                x = 2.056569e+00,        f(x) = 7.648216e+00,     method = 
+iter = 4,                x = 1.920000e+00,        f(x) = 6.170176e+00,     method = 
+iter = 5,                x = 2.080000e+00,        f(x) = 7.932224e+00,     method = 
+iter = 6,                x = 1.886863e+00,        f(x) = 5.854996e+00,     method = 
+iter = 7,                x = 2.113137e+00,        f(x) = 8.349804e+00,     method = 
+iter = 8,                x = 1.840000e+00,        f(x) = 5.436608e+00,     method = 
+iter = 9,                x = 2.160000e+00,        f(x) = 8.972992e+00,     method = 
+iter = 10,               x = 1.773726e+00,        f(x) = 4.897414e+00,     method = 
+iter = 11,               x = 2.226274e+00,        f(x) = 9.921786e+00,     method = 
+iter = 12,               x = 1.680000e+00,        f(x) = 4.233664e+00,     method = 
+iter = 13,               x = 2.320000e+00,        f(x) = 1.140474e+01,     method = 
+iter = 14,               x = 1.547452e+00,        f(x) = 3.475004e+00,     method = 
+iter = 15,               x = 2.452548e+00,        f(x) = 1.380180e+01,     method = 
+iter = 16,               x = 1.360000e+00,        f(x) = 2.712512e+00,     method = 
+iter = 17,               x = 2.640000e+00,        f(x) = 1.784109e+01,     method = 
+iter = 18,               x = 1.094903e+00,        f(x) = 2.114626e+00,     method = 
+iter = 19,               x = 2.905097e+00,        f(x) = 2.499257e+01,     method = 
+iter = 20,               x = 7.200000e-01,        f(x) = 1.832896e+00,     method = 
+iter = 21,               x = 3.280000e+00,        f(x) = 3.838150e+01,     method = 
+iter = 22,               x = 1.898066e-01,        f(x) = 1.438990e+00,     method = 
+iter = 23,               x = 3.810193e+00,        f(x) = 6.498981e+01,     method = 
+iter = 24,               x = -5.600000e-01,       f(x) = -2.285632e+00,    method = 
+iter = 25,               x = -4.115260e-01,       f(x) = -1.051379e+00,    method = linear interpolation (secant) between x_23, x_24
+iter = 26,               x = -2.870642e-01,       f(x) = -2.381273e-01,    method = Inverse quadratic interpolation between last 3 points.
+iter = 27,               x = -2.509627e-01,       f(x) = -3.642960e-02,    method = 
+iter = 28,               x = -2.444577e-01,       f(x) = -1.628936e-03,    method = 
+iter = 29,               x = -2.441534e-01,       f(x) = -1.196376e-05,    method = 
+iter = 30,               x = -2.441511e-01,       f(x) = -3.974370e-09,    method = 
+iter = 31,               x = -2.441511e-01,       f(x) = -9.769963e-15,    method = linear interpolation (secant) between x_29, x_30
+iter = 32,               x = -2.441511e-01,       f(x) = 0,                method = linear interpolation (secant) between x_30, x_31

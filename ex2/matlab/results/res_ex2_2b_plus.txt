@@ -1,0 +1,20 @@
+iter = 1,                x = 2.400000e+00,        f(x) = 6.361500e+00,     method = initial point
+iter = 2,                x = 2.332118e+00,        f(x) = 5.283839e+00,     method = initial point
+iter = 3,                x = 2.467882e+00,        f(x) = 7.512151e+00,     method = 
+iter = 4,                x = 2.304000e+00,        f(x) = 4.858350e+00,     method = 
+iter = 5,                x = 2.496000e+00,        f(x) = 8.010632e+00,     method = 
+iter = 6,                x = 2.264235e+00,        f(x) = 4.277105e+00,     method = 
+iter = 7,                x = 2.535765e+00,        f(x) = 8.737858e+00,     method = 
+iter = 8,                x = 2.208000e+00,        f(x) = 3.495341e+00,     method = 
+iter = 9,                x = 2.592000e+00,        f(x) = 9.811585e+00,     method = 
+iter = 10,               x = 2.128471e+00,        f(x) = 2.468157e+00,     method = 
+iter = 11,               x = 2.671529e+00,        f(x) = 1.142269e+01,     method = 
+iter = 12,               x = 2.016000e+00,        f(x) = 1.166394e+00,     method = 
+iter = 13,               x = 2.784000e+00,        f(x) = 1.389231e+01,     method = 
+iter = 14,               x = 1.856942e+00,        f(x) = -3.894625e-01,    method = 
+iter = 15,               x = 1.882223e+00,        f(x) = -1.635840e-01,    method = linear interpolation (secant) between x_13, x_14
+iter = 16,               x = 1.900318e+00,        f(x) = 2.965389e-03,     method = Inverse quadratic interpolation between last 3 points.
+iter = 17,               x = 1.899996e+00,        f(x) = -3.579448e-05,    method = linear interpolation (secant) between x_15, x_16
+iter = 18,               x = 1.900000e+00,        f(x) = -7.670544e-09,    method = linear interpolation (secant) between x_16, x_17
+iter = 19,               x = 1.900000e+00,        f(x) = -4.440892e-16,    method = linear interpolation (secant) between x_17, x_18
+iter = 20,               x = 1.900000e+00,        f(x) = 7.549517e-15,     method = linear interpolation (secant) between x_18, x_19

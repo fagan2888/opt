@@ -1,0 +1,11 @@
+iter = 1,                x = -1.950000e+00,       f(x) = -5.691263e+00,    method = initial point
+iter = 2,                x = 2.400000e+00,        f(x) = 6.361500e+00,     method = initial point
+iter = 3,                x = 1.040512e-01,        f(x) = -2.874194e+00,    method = linear interpolation (secant) between x_1, x_2
+iter = 4,                x = 1.547562e+00,        f(x) = -2.551598e+00,    method = Inverse quadratic interpolation between last 3 points.
+iter = 5,                x = 1.973781e+00,        f(x) = 7.216948e-01,     method = bisection between x_2, x_4
+iter = 6,                x = 1.879808e+00,        f(x) = -1.854987e-01,    method = linear interpolation (secant) between x_4, x_5
+iter = 7,                x = 1.899023e+00,        f(x) = -9.089825e-03,    method = linear interpolation (secant) between x_5, x_6
+iter = 8,                x = 1.900001e+00,        f(x) = 1.027322e-05,     method = Inverse quadratic interpolation between last 3 points.
+iter = 9,                x = 1.900000e+00,        f(x) = -6.758447e-09,    method = linear interpolation (secant) between x_7, x_8
+iter = 10,               x = 1.900000e+00,        f(x) = -3.996803e-15,    method = linear interpolation (secant) between x_8, x_9
+iter = 11,               x = 1.900000e+00,        f(x) = 3.108624e-15,     method = linear interpolation (secant) between x_9, x_10
